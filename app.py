@@ -11,7 +11,7 @@ st.image(image, caption='扫码关注-理性派的旅行')
 st.markdown('#### 本站基于-微信公众号文章[**指数估值看板**](https://mp.weixin.qq.com/s/M4sdSfsnwm98rf7Y0eohsg) 制作而成，功能驱动由[streamlit](https://streamlit.io/) 支持，实现交互操作及数据展示。')
 st.markdown('> **数据说明：**')
 st.markdown('数据开始时间：2012-07-01')
-st.markdown('数据最新时间：2022-11-30')
+st.markdown('数据最新时间：2022-12-31')
 
 
 ## 逻辑计算部分
